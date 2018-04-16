@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://source.unsplash.com/collection/935527/1600x900");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+#resultTabla {
+  border-radius: 15px;
+  opacity: 0.9;
+}
+
+.navbar-brand{
+  color: #078C36 !important;
+}
+.navbar-text{
+  color: #078C36 !important;
+}
+.navbar-item{
+  color: #C9F2DB !important;
+}
+.form-control::-webkit-input-placeholder { color: #078C36; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: #078C36; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: #078C36; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: #078C36; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: #078C36; }
+
+
+#aviso{
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 15px;
+}
