@@ -1,4 +1,9 @@
 # Reto-Proscai-Fe_fragmnt02
+
+Reto para la posición de desarrollador web en Proscai. 
+
+Aplicación realizada con `create-react-app` que muestra la calidad del aire en diferentes localizaciones alrededor del mundo.
+
 Pasos para ejecutar el software:
 
 1. Clonar el repositorio:
