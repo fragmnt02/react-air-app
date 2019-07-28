@@ -8,7 +8,7 @@ Pasos para ejecutar el software:
 
 1. Clonar el repositorio:
 
-`git clone https://github.com/buzali/reto-proscai-fe_fragmnt02.git`
+`git clone https://github.com/fragmnt02/react-air-app.git`
 
 2. Instalar las dependencias necesarias para la ejecución:
 
